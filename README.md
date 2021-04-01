@@ -17,3 +17,9 @@ list the works;
 
 - [x] create page
 - [ ] create game 
+
+
+Num | Name | Note
+---|---|---
+3 | jose | 10,00
+4 | luan | 8,5
