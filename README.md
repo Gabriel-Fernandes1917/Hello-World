@@ -4,3 +4,16 @@
  Repository creaded with help the Channel Curso em video.
  
  I am write this line with editor remote the GitHub.
+# class the lenguage MarkDown
+---
+can  _**mixture**_ settings
+
+list;
+
+*test
+*Test 2
+*Test
+list the works;
+
+- [x] create page
+- [ ] create game 
