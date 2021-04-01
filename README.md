@@ -23,3 +23,10 @@ Num | Name | Note
 ---|---|---
 3 | jose | 10,00
 4 | luan | 8,5
+
+ `alert´
+ 
+ ``` 
+ alert(x);
+ 
+ ```
